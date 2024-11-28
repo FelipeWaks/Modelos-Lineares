@@ -7,7 +7,12 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 
+def load_data():
+    data = pd.read_csv("CO2_Emissions_Canada.csv")
+    data.columns = ['Marca','Modelo','Classe','Tam_Motor','Cinlindros','Cambio','Tipo_Combustivel','Consumo_Cidade','Consumo_Rodovia','Consumo_Comb_1','Consumo_Comb_2',"Emissao_Co2"]
+    return data
 df = load_data()
+
 st.title("Vizualização")
 with st.expander('Dados'):
     st.write('**Dados Brutos**')
