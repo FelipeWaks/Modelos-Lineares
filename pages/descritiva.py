@@ -5,7 +5,7 @@ import statsmodels.api as sm
 import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
-from streamlit_app.py import load_data
+from streamlit_app.py import load_data()
 
 
 df = load_data()
