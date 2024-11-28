@@ -15,7 +15,7 @@ st.title('Regressão')
 
 
 def load_data():
-    data = pd.read_csv("https://github.com/FelipeWaks/Modelos-Lineares/blob/master/CO2%20Emissions_Canada.csv")
+    data = pd.read_csv("CO2_Emissions_Canada.csv")
     data.columns = ['Marca','Modelo','Classe','Tam_Motor','Cinlindros','Cambio','Tipo_Combustivel','Consumo_Cidade','Consumo_Consumo_Rodovia','Consumo_Comb_1','Consumo_Comb_2',"Emissao_Co2"]
     return data
 
