@@ -1,13 +1,10 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Aplicação computacional do trabalho final da disciplina de Modelos Lineares   
 
-Description of the app ...
+Esse aplicativo traz a parte computacional do trabalho final de Modelos Lineares.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Modelos-Lineares.streamlit.app/)
 
 ## GitHub Codespaces
 
