@@ -1,5 +1,6 @@
 streamlit
 statsmodels
+statsmodels.api
 pandas
 numpy
 matplotlib
