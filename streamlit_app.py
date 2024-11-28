@@ -13,7 +13,7 @@ def load_data():
     return data
 
 pag_ap = st.Page(
-    page="pages/apresentacao.py",
+    page="pages//apresentacao.py",
     title = "Apresentação",
     default= True
 
@@ -21,12 +21,12 @@ pag_ap = st.Page(
 )
 
 pag_descritiva = st.Page(
-    page= "pages/descritiva.py",
+    page= "pages//descritiva.py",
     title="Descritiva"
 )
 
 pag_regressao = st.Page(
-    page= "pages/dummyregression.py",
+    page= "pages//dummyregression.py",
     title="Regressão"
 )
 
