@@ -2,9 +2,9 @@
 
 Esse aplicativo traz a parte computacional do trabalho final de Modelos Lineares.
 
-## Demo App
+## Nosso Aplicativo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Modelos-Lineares.streamlit.app/)
+[![Modelos Lineares](📈)](https://Modelos-Lineares.streamlit.app/)
 
 ## GitHub Codespaces
 
