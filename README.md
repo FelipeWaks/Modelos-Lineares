@@ -4,7 +4,7 @@ Esse aplicativo traz a parte computacional do trabalho final de Modelos Lineares
 
 ## Nosso Aplicativo
 
-[![Modelos Lineares](📈)](https://Modelos-Lineares.streamlit.app/)
+[![Modelos Lineares]](https://Modelos-Lineares.streamlit.app/)
 
 ## GitHub Codespaces
 
