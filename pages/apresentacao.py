@@ -19,7 +19,6 @@ Esta aplicação foi desenvolvida como parte do trabalho final da disciplina de 
 - Felipe
 - Maria Eduarda
 - José Diogo
-- Carolina
 
 Agradecemos pela visita e esperamos que aproveite a experiência interativa desta ferramenta!
 """)
