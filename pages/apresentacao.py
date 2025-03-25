@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Bem-vindo à Nossa Aplicação")
 
 st.markdown("""
-Esta aplicação foi desenvolvida como parte do trabalho final da disciplina de **Modelos Lineares**. Nosso objetivo foi explorar como diferentes variáveis influenciam um critério de classificação de automóveis, com foco na relação entre as marcas dos veículos e o consumo de combustível.
+Esta aplicação foi desenvolvida como parte do trabalho final da disciplina de **Modelos Lineares**. Nosso objetivo foi explorar como diferentes variáveis de automóveis comportam-se entre si, com foco na relação entre as marcas dos veículos e o consumo de combustível.
 
 ### Funcionalidades:
 1. **Análise Exploratória:**
